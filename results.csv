@@ -43080,8 +43080,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-12-11,Egypt,Jordan,3,1,Arab Cup,Al Wakrah,Qatar,TRUE
 2021-12-11,Morocco,Algeria,2,2,Arab Cup,Doha,Qatar,TRUE
 2021-12-11,El Salvador,Chile,0,1,Friendly,Los Angeles,United States,TRUE
-2021-12-15,Tunisia,Egypt,NA,NA,Arab Cup,Doha,Qatar,TRUE
-2021-12-15,Qatar,Algeria,NA,NA,Arab Cup,Doha,Qatar,FALSE
-2021-12-18,NA,NA,NA,NA,Arab Cup,Doha,Qatar,NA
-2021-12-18,NA,NA,NA,NA,Arab Cup,Al Khor,Qatar,NA
-2021-12-18,United States,Bosnia and Herzegovina,NA,NA,Friendly,Los Angeles,United States,FALSE
+2021-12-15,Tunisia,Egypt,1,0,Arab Cup,Doha,Qatar,TRUE
+2021-12-15,Qatar,Algeria,1,2,Arab Cup,Doha,Qatar,FALSE
+2021-12-18,Egypt,Qatar,0,1,Arab Cup,Doha,Qatar,TRUE
+2021-12-18,Tunisia,Algeria,0,2,Arab Cup,Al Khor,Qatar,TRUE
