@@ -5,3 +5,7 @@ MSSV | Họ và tên | Link github |
 --- | --- | --- |
 19120485 | Nguyễn Phạm Quang Dũng | https://github.com/npqd |
 19120489 | Lưu Trường Dương | https://github.com/robocon20x |
+
+## Link trello
+https://trello.com/ltkhdl_finalproject
+
