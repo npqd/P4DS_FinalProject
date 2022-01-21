@@ -7,4 +7,4 @@ away_score, số bàn thắng đội khách ghi được bao gồm thời gian t
 tournament, tên của giải đấu
 city, tên của thành phố trận đấu diễn ra
 country, tên của quốc gia mà trận đấu diễn ra
-neutral, cột TRUE/FALSE nếu được tỏ trức ở một sân trung lập thì trả về giá trị TRUE
+neutral, cột TRUE/FALSE nếu được tổ chức ở một sân trung lập thì trả về giá trị TRUE
